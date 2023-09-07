@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 147509436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1464b7744ff0486bab77f28490a290d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 156ce72be946993801e794319882eaf3
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AutoyaTests/RuntimeData/AssetBundles/SubResources/sample2.txt
+Dependencies: []
