@@ -1,8 +1,18 @@
 {
     "identity": "main_assets",
     "target": "Android",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "assetBundles": [
+        {
+            "bundleName": "aname",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/aName.png"
+            ],
+            "dependsBundleNames": [],
+            "crc": 4156966925,
+            "hash": "fb08f95228b3e701e8fbe0effacda104",
+            "size": 18719
+        },
         {
             "bundleName": "nestedprefab",
             "assetNames": [
@@ -11,9 +21,9 @@
             "dependsBundleNames": [
                 "texturename1"
             ],
-            "crc": 1302386798,
-            "hash": "9a65652e2bc3c1fad668a3f0e6ad9d84",
-            "size": 2456
+            "crc": 556360285,
+            "hash": "7fcc1e80a071d8a518717d7f8db42f9a",
+            "size": 2493
         },
         {
             "bundleName": "texturename",
@@ -21,9 +31,9 @@
                 "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName.png"
             ],
             "dependsBundleNames": [],
-            "crc": 537821938,
-            "hash": "367185e180667152daf6700d5f6e39bd",
-            "size": 248279
+            "crc": 453777131,
+            "hash": "d121f6adfb03010a7f6450a6cee7f1ba",
+            "size": 18711
         },
         {
             "bundleName": "texturename1",
@@ -33,9 +43,9 @@
             "dependsBundleNames": [
                 "texturename"
             ],
-            "crc": 3724804842,
-            "hash": "c481ec7741ce73f9d0c5816995f6e3a9",
-            "size": 2928
+            "crc": 2666831585,
+            "hash": "e351b00e4258e6ecb868334e4105511a",
+            "size": 2952
         },
         {
             "bundleName": "texturename2",
@@ -45,9 +55,9 @@
             "dependsBundleNames": [
                 "texturename"
             ],
-            "crc": 1901524344,
-            "hash": "0e62f1ecf958777908c2ecc6f641dab1",
-            "size": 2907
+            "crc": 1377433205,
+            "hash": "ed1507ab3aff44ebd184f1b7b64c0f7e",
+            "size": 2930
         },
         {
             "bundleName": "updatabletex",
@@ -57,9 +67,9 @@
             "dependsBundleNames": [
                 "texturename"
             ],
-            "crc": 273321084,
-            "hash": "4796d19e52956ddc0a0fc1bfd494f476",
-            "size": 2916
+            "crc": 309941187,
+            "hash": "b05d59c62c616ba9cfa98efcd463042d",
+            "size": 2935
         }
     ]
 }
