@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.3.0a4
+CRC: 6138147
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: aname
+      Dependencies: {}
+    Info_1:
+      Name: nestedprefab
+      Dependencies:
+        Dependency_0: texturename1
+    Info_2:
+      Name: texturename
+      Dependencies: {}
+    Info_3:
+      Name: texturename1
+      Dependencies:
+        Dependency_0: texturename
+    Info_4:
+      Name: texturename2
+      Dependencies:
+        Dependency_0: texturename
+    Info_5:
+      Name: updatabletex
+      Dependencies:
+        Dependency_0: texturename
+    Info_6:
+      Name: bbb/bname
+      Dependencies: {}

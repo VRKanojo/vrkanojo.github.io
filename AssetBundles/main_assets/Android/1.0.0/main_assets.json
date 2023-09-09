@@ -1,0 +1,85 @@
+{
+    "identity": "main_assets",
+    "target": "Android",
+    "version": "1.0.0",
+    "assetBundles": [
+        {
+            "bundleName": "aname",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/aName.png"
+            ],
+            "dependsBundleNames": [],
+            "crc": 4005628697,
+            "hash": "2cd6da94491f8880f6473901f1c971b9",
+            "size": 42207
+        },
+        {
+            "bundleName": "nestedprefab",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/nestedPrefab.prefab"
+            ],
+            "dependsBundleNames": [
+                "texturename1"
+            ],
+            "crc": 525644583,
+            "hash": "7018ae4163f9218a2988df8dcdf4d729",
+            "size": 3781
+        },
+        {
+            "bundleName": "texturename",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName.png"
+            ],
+            "dependsBundleNames": [],
+            "crc": 2268100188,
+            "hash": "428fd2cfd07b6a36f12e5bf362ce63ee",
+            "size": 42217
+        },
+        {
+            "bundleName": "texturename1",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName1.prefab"
+            ],
+            "dependsBundleNames": [
+                "texturename"
+            ],
+            "crc": 2087878168,
+            "hash": "49598c7c890f42635f2442eae720bc57",
+            "size": 4604
+        },
+        {
+            "bundleName": "texturename2",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName2.prefab"
+            ],
+            "dependsBundleNames": [
+                "texturename"
+            ],
+            "crc": 2963216012,
+            "hash": "573b96aad81142e224dc3a1d8b122870",
+            "size": 4613
+        },
+        {
+            "bundleName": "updatabletex",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/updatableTex.prefab"
+            ],
+            "dependsBundleNames": [
+                "texturename"
+            ],
+            "crc": 2464861269,
+            "hash": "437d573d293621e7309b06c8f3475cd3",
+            "size": 4571
+        },
+        {
+            "bundleName": "bbb/bname",
+            "assetNames": [
+                "Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/bbb/bName/bName.png"
+            ],
+            "dependsBundleNames": [],
+            "crc": 1580358646,
+            "hash": "619dfd49c911c8fd98d6d8e2428f9d47",
+            "size": 615241
+        }
+    ]
+}

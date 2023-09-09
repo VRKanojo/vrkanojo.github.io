@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.3.0a4
+CRC: 2087878168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49598c7c890f42635f2442eae720bc57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b45d7b84591ce9b37c0b7e3edd04e03
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 42b24bd41fb16ff65032c02db1ba46ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName1.prefab
+Dependencies:
+- G:/ProjectY18/autoya/Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/Android/texturename
